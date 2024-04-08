@@ -1,7 +1,7 @@
 #  M&N Jewelry
 
 ## Project Description
-M&N Joyeria is an elegant and sophisticated jewelry website showcasing exquisite craftsmanship and quality jewelry pieces. The website features a sleek navigation bar, captivating banner section, informative content, and a convenient order online button, offering visitors a seamless browsing and shopping experience.
+M&N Joyeria is an elegant, sophisticated jewelry website showcasing exquisite craftsmanship and quality jewelry. The website features a sleek navigation bar, a captivating banner section, informative content, and a convenient online order button, offering visitors a seamless browsing and shopping experience.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/LCRazo/ecommerce-website-MNJewelry/main/M%26NJewelry.webp">
@@ -31,8 +31,10 @@ M&N Joyeria is an elegant and sophisticated jewelry website showcasing exquisite
 
 ## Technologies
 
+- **Front-End Development**: HTML, CSS, Bootstrap
 - **Back-End Development**: Node.js, Express.js
 - **Database Management**: SQLite
+- **Templating Engine**: EJS
 
 ## Credits
 
